@@ -1,7 +1,0 @@
-Excepción: El perro no debe ser nulo | Hora: 1746321831173
-Excepción: null | Hora: 1746322324963
-Excepción: Cedula invalida | Hora: 1746333457633
-Excepción: Cedula invalida | Hora: 1746333579224
-Excepción: Error en el ingreso del nombre; Nombre no valido | Hora: 1746334481203
-Excepción: Error en el ingreso del nombre; Nombre no valido | Hora: 1746334580879
-Excepción: Error en el ingreso del nombre; Nombre no valido | Hora: 1746335270741
